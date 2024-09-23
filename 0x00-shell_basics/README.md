@@ -1,2 +1,1 @@
-SHell basics
-work
+shell redefined
